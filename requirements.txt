@@ -4,7 +4,8 @@ numpy
 rouge-score
 sacrebleu
 sentencepiece
-tensorflow-text==1.15.0rc0
+tensorflow-text==1.15.0
 tensor2tensor==1.15.0
 tensorflow-datasets==2.1.0
+tfds-nightly
 tensorflow-gpu==1.15.2
