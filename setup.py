@@ -46,7 +46,7 @@ setuptools.setup(
         'tensor2tensor==1.15.0',
     ],
     extras_require={
-        'tensorflow': ['tensorflow==1.15'],
+        'tensorflow': ['tensorflow==1.15.0'],
     },
     classifiers=[
         'Development Status :: 4 - Beta',
