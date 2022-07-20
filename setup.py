@@ -41,7 +41,7 @@ setuptools.setup(
         'sacrebleu',
         'sentencepiece',
         'tensorflow==1.15'
-        'tensorflow-text==1.15.0rc0',
+        'tensorflow-text==1.15.0',
         'tfds-nightly',
         'tensor2tensor==1.15.0',
     ],
